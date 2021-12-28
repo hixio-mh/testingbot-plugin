@@ -98,13 +98,13 @@
         <dependency>
             <groupId>com.pholser</groupId>
             <artifactId>junit-quickcheck-core</artifactId>
-            <version>0.8</version>
+            <version>1.0</version>
         </dependency>
 
         <dependency>
             <groupId>com.pholser</groupId>
             <artifactId>junit-quickcheck-generators</artifactId>
-            <version>0.8</version>
+            <version>1.0</version>
         </dependency>
 
         <dependency>
@@ -177,7 +177,7 @@
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
-            <version>4.5.10</version>
+            <version>4.5.13</version>
         </dependency>
     </dependencies>
 </project>
